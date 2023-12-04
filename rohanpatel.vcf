@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Patel;Rohan;;;
+FN:Rohan Patel
+ORG:Dynamic Simple Provider
+ADR;TYPE=WORK:
+TITLE:Chief Operating Officer
+TEL;TYPE=CELL:+6492171977
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:rohan@dspnz.com
+URL;TYPE=Digital Business Card:https://dspnz.com/rohanpatel
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Transforming professional networking through digital business cards. Streamline your connections effortlessly.
+UID:EnBizCard-100539783
+END:VCARD
